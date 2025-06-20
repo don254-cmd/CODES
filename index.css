@@ -1,0 +1,17 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+    body { font-family: Arial, sans-serif; background: #f0f8ff; padding: 20px; }
+    .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 10px; }
+    h1 { text-align: center; color: #0077cc; }
+    .referral-box { background: #e6f2ff; padding: 15px; border-radius: 8px; margin-top: 20px; }
+    .btn { display: inline-block; margin-top: 10px; padding: 10px 20px; background: #0077cc; color: white; text-decoration: none; border-radius: 5px; }
+  
